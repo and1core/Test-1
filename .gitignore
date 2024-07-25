@@ -3,3 +3,13 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+### VisualStudioCode ###
+.vscode
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+**/.history
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
